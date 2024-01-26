@@ -1,4 +1,4 @@
-# Architecture \
+# Architecture 
 
 ![image](https://github.com/vishu247/demo-voting-app-pod/assets/156403229/2408eb2f-3752-4ce9-8f16-db77a89ca695)
 
