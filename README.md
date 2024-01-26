@@ -1,3 +1,7 @@
+# Architecture \
+
+![image](https://github.com/vishu247/demo-voting-app-pod/assets/156403229/2408eb2f-3752-4ce9-8f16-db77a89ca695)
+
 # demo-voting-app
 
 ![image](https://github.com/vishu247/demo-voting-app-pod/assets/156403229/56f089db-c6cb-426a-a551-db427ed5c2cf)
@@ -21,6 +25,7 @@
 6) How to checkt the **URL of the minikube service** \
    ![image](https://github.com/vishu247/demo-voting-app-pod/assets/156403229/1df0209b-1cef-4445-9989-2e73e5bd06c1)
 
-
-    
+\
+\
+**README edit url:** https://github.com/mattcone/markdown-guide/blob/master/_basic-syntax/bold.md
 
