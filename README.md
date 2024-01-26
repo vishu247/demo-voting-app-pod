@@ -9,4 +9,6 @@
 # Way to run this application 
 1) First you need to run the minikube cluster
 2) Create the namespace first  #kubect create ns voting-app-pod
-3) 
+   you can get all the namespace #kubectl get ns
+ ![image](https://github.com/vishu247/demo-voting-app-pod/assets/156403229/85711ed5-19d9-45a6-b821-cbb5c2509f70)
+ 3)
