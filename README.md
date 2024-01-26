@@ -6,3 +6,7 @@
 
 ![image](https://github.com/vishu247/demo-voting-app-pod/assets/156403229/48055807-ac71-4280-b49d-8c9d78ff2350)
 
+# Way to run this application 
+1) First you need to run the minikube cluster
+2) Create the namespace first  #kubect create ns voting-app-pod
+3) 
