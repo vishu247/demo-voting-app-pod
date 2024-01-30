@@ -1,0 +1,39 @@
+
+frontendVoting:
+  replicaCount: 5
+  image: vishu247/voting-app-vote:v1
+  
+frontendResult:
+  replicaCount: 1
+  image: vishu247/voting-app-result:v1
+
+backendVoting:
+  replicaCount: 1
+  image: redis
+
+backendResult:
+  replicaCount: 1
+  image: postgres
+  postgresUser: postgres
+  postgresPassword: postgres
+
+worker:
+  replicaCount: 1
+  image: vishu247/voting-app-worker:v1
+
+
+
+frontendVotingService:
+  nodePort: 30008
+
+frontendResultService:
+  nodePort: 30009
+
+backendVotingService:
+  
+
+backendResultService:
+  
+workerService:
+
+
